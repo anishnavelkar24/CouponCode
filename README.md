@@ -1,6 +1,7 @@
 # CouponCode validator
 How to run this app
 Create React app using npx create-react-app client
+install all necassary packages
 Under src folder put all src files
 type npm init at root level to setup server nodejs
 add server.js and data.json files
